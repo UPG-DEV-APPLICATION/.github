@@ -1,9 +1,8 @@
 ## Hi there 👋
 ## Welcome to UPG DEV
 
-![pengunjung](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Universitas Primagraha](https://lh3.googleusercontent.com/p/AF1QipNyu8vjTnVMh5mYiEa0qwBl8EFNXE5PGqId5TRP=s680-w680-h510)
 
-<img height="180em" src=" https://github-readme-stats.vercel.app/api?UPG-DEV-APPLICATION=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true " />
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
