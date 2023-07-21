@@ -2,10 +2,10 @@
 ## Welcome to UPG DEV
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=upg-dev-application&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferlanferlani&show_icons=true)
 
 
-![Top Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=upg-dev-application)
+![Top Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=ferlanferlani)
 
 
 ![Universitas Primagraha](https://lh3.googleusercontent.com/p/AF1QipNyu8vjTnVMh5mYiEa0qwBl8EFNXE5PGqId5TRP=s680-w680-h510)
