@@ -1,6 +1,8 @@
 ## Hi there 👋
 ## Welcome to UPG DEV
 
+<img height="180em" src=" https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true " />
+
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
