@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, We Are UPG DEV</h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=[URL_REPOSITORI_GITHUB](https://github.com/UPG-DEV-APPLICATION/))](https://hits.seeyoufarm.com)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=UPG-DEV-APPLICATION.https://github.com/UPG-DEV-APPLICATION/)
+
 
 <h2 align="center">Welcome to Official Account Primagraha University</h2>
 
