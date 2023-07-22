@@ -19,10 +19,9 @@
 </p>
 
 <!-- Sosial Media -->
-<!-- Sosial Media -->
 <p align="center">
-  <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCr4ZcBh33zjhSsa07mcBCYA"><img src="https://img.shields.io/badge/YouTube-[nama_pengguna_youtube_anda]-red" alt="YouTube"></a>
-  <a href="https://www.facebook.com/profile.php?id=100080510882329"><img src="https://img.shields.io/badge/Facebook-[nama_pengguna_facebook_anda]-blue" alt="Facebook"></a>
+  <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCr4ZcBh33zjhSsa07mcBCYA"><img src="https://img.shields.io/badge/YouTube-[Youtube]-red" alt="YouTube"></a>
+  <a href="https://www.facebook.com/profile.php?id=100080510882329"><img src="https://img.shields.io/badge/Facebook-[Facebook]-blue" alt="Facebook"></a>
   <a href="www.instagram.com/universitasprimagraha/"><img src="https://img.shields.io/badge/Instagram-universitasprimagraha-orange" alt="Instagram"></a>
 </p>
 
