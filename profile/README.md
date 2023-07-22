@@ -26,7 +26,7 @@
 <!-- Statistik Github -->
 <h2 align="center">Statistics GitHub 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UPG-DEV-APPLICATION&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Statistik GitHub Anda">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferlanferlani&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Statistik GitHub Anda">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UPG-DEV-APPLICATION&layout=compact&theme=radical" alt="Bahasa yang Sering Digunakan">
 </p>
