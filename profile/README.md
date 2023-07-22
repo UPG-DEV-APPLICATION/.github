@@ -12,7 +12,7 @@
 <!-- Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-GitHub-brightgreen" alt="Platform: GitHub">
-  <img src="https://img.shields.io/badge/Language-[Javascript]-blueviolet" alt="Bahasa Favorit Anda">
+  <img src="https://img.shields.io/badge/Language-[Javascript&PHP]-blueviolet" alt="Bahasa Favorit Anda">
   <img src="https://img.shields.io/badge/Status-[ACTIVE]-important" alt="Status Profil Anda">
 </p>
 
