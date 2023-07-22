@@ -4,4 +4,6 @@
 
 <h2 align="center">Welcome to Official Account Primagraha University</h2>
 
-<img align="center" alt="UPG" width="500" src="https://lh3.googleusercontent.com/p/AF1QipNyu8vjTnVMh5mYiEa0qwBl8EFNXE5PGqId5TRP=s680-w680-h510">
+<h2 align="center">
+  <img align="center" alt="UPG" width="500" src="https://lh3.googleusercontent.com/p/AF1QipNyu8vjTnVMh5mYiEa0qwBl8EFNXE5PGqId5TRP=s680-w680-h510">
+</h2>
