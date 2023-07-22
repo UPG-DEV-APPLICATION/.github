@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/p/AF1QipNyu8vjTnVMh5mYiEa0qwBl8EFNXE5PGqId5TRP=s680-w680-h510" alt="Universitas Primagraha" width="800px">
+  <img src="https://lh3.googleusercontent.com/p/AF1QipNyu8vjTnVMh5mYiEa0qwBl8EFNXE5PGqId5TRP=s680-w680-h510" alt="Universitas Primagraha" width="400px">
 </p>
 
 <!-- Deskripsi -->
@@ -18,8 +18,8 @@
 
 <!-- Sosial Media -->
 <p align="center">
-  <a href="https://twitter.com/[nama_twitter_anda]"><img src="https://img.shields.io/twitter/follow/[nama_twitter_anda]?style=social" alt="Twitter"></a>
-  <a href="https://github.com/[nama_pengguna_anda]"><img src="https://img.shields.io/github/followers/[nama_pengguna_anda]?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://facebook.com/https://www.facebook.com/profile.php?id=100080510882329"><img src="https://img.shields.io/facebook/follow/https://www.facebook.com/profile.php?id=100080510882329?style=social" alt="Twitter"></a>
+  <a href="https://github.com/[nama_pengguna_anda]"><img src="https://img.shields.io/github/followers/UPG-DEV-APPLICATION?label=Follow&style=social" alt="GitHub"></a>
 </p>
 
 <!-- Proyek Utama -->
