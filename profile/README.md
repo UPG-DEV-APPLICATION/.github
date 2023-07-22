@@ -21,14 +21,6 @@
   <a href="https://github.com/UPG-DEV-APPLICATION"><img src="https://img.shields.io/github/followers/UPG-DEV-APPLICATION?label=Follow&style=social" alt="GitHub"></a>
 </p>
 
-<!-- Proyek Utama -->
-<h2 align="center">Proyek Utama 🚀</h2>
-<p align="center">
-  Nama Proyek Anda atau tagline proyek Anda.
-  <br>
-  <a href="url_ke_proyek_anda">Kunjungi Proyek</a>
-</p>
-
 <!-- Statistik Github -->
 <h2 align="center">Statistik GitHub 📊</h2>
 <p align="center">
