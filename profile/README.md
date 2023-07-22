@@ -1,18 +1,18 @@
 <!-- Header -->
 <p align="center">
-  <img src="url_ke_gambar_header_anda.jpg" alt="Header Image" width="800px">
+  <img src="https://lh3.googleusercontent.com/p/AF1QipNyu8vjTnVMh5mYiEa0qwBl8EFNXE5PGqId5TRP=s680-w680-h510" alt="Universitas Primagraha" width="800px">
 </p>
 
 <!-- Deskripsi -->
-<h1 align="center">Halo, Saya [Nama Anda] 👋</h1>
+<h1 align="center">Hallo, We Are UPG DEV 👋</h1>
 <p align="center">
-  [Deskripsi singkat diri Anda atau tagline unik Anda]
+  Official Account Universitas Primagraha
 </p>
 
 <!-- Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-GitHub-brightgreen" alt="Platform: GitHub">
-  <img src="https://img.shields.io/badge/Language-[Bahasa Favorit Anda]-blueviolet" alt="Bahasa Favorit Anda">
+  <img src="https://img.shields.io/badge/Language-[Javascript]-blueviolet" alt="Bahasa Favorit Anda">
   <img src="https://img.shields.io/badge/Status-[Status Profil Anda]-important" alt="Status Profil Anda">
 </p>
 
