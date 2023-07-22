@@ -18,8 +18,7 @@
 
 <!-- Sosial Media -->
 <p align="center">
-  <a href="https://facebook.com/https://www.facebook.com/profile.php?id=100080510882329"><img src="https://img.shields.io/facebook/follow/https://www.facebook.com/profile.php?id=100080510882329?style=social" alt="Twitter"></a>
-  <a href="https://github.com/[nama_pengguna_anda]"><img src="https://img.shields.io/github/followers/UPG-DEV-APPLICATION?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://github.com/UPG-DEV-APPLICATION"><img src="https://img.shields.io/github/followers/UPG-DEV-APPLICATION?label=Follow&style=social" alt="GitHub"></a>
 </p>
 
 <!-- Proyek Utama -->
@@ -33,18 +32,13 @@
 <!-- Statistik Github -->
 <h2 align="center">Statistik GitHub 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[nama_pengguna_anda]&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Statistik GitHub Anda">
+  <img src="https://github-readme-stats.vercel.app/api?username=UPG-DEV-APPLICATION&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Statistik GitHub Anda">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[nama_pengguna_anda]&layout=compact&theme=radical" alt="Bahasa yang Sering Digunakan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UPG-DEV-APPLICATION&layout=compact&theme=radical" alt="Bahasa yang Sering Digunakan">
 </p>
 
-<!-- Cara Menghubungi -->
-<h2 align="center">Cara Menghubungi 📞</h2>
-<p align="center">
-  Jika Anda ingin berhubungan atau berbicara lebih lanjut tentang proyek, saya tersedia di [nama_anda@gmail.com].
-</p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=[nama_pengguna_anda].[nama_pengguna_anda]" alt="Jumlah Pengunjung Profil">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=UPG-DEV-APPLICATION.UPG-DEV-APPLICATION" alt="Jumlah Pengunjung Profil">
 </p>
