@@ -11,13 +11,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=UPG-DEV-APPLICATION&label=Profile%20views&color=129e00&style=plastic" alt="UPG" /> </p>
 
-<!-- Badge -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-GitHub-brightgreen" alt="Platform: GitHub">
-  <img src="https://img.shields.io/badge/Language-Javascript&PHP-blueviolet" alt="Bahasa Favorit Anda">
-  <img src="https://img.shields.io/badge/Status-Active-important" alt="Status Profil Anda">
-</p>
-
 <!-- Sosial Media -->
 <p align="center">
   Social Media
