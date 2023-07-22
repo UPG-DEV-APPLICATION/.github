@@ -3,6 +3,8 @@
   <img src="https://lh3.googleusercontent.com/p/AF1QipNyu8vjTnVMh5mYiEa0qwBl8EFNXE5PGqId5TRP=s680-w680-h510" alt="Universitas Primagraha" width="400px">
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=UPG-DEV-APPLICATION&label=Profile%20views&color=129e00&style=plastic" alt="UPG" /> </p>
+
 <!-- Deskripsi -->
 <h1 align="center">Hallo, We Are UPG DEV 👋</h1>
 <p align="center">
@@ -28,7 +30,3 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UPG-DEV-APPLICATION&layout=compact&theme=radical" alt="Bahasa yang Sering Digunakan">
 </p>
-
-
-<!-- Footer -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=UPG-DEV-APPLICATION&label=Profile%20views&color=129e00&style=plastic" alt="UPG" /> </p
