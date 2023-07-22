@@ -11,9 +11,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=UPG-DEV-APPLICATION&label=Profile%20views&color=129e00&style=plastic" alt="UPG" /> </p>
 
-<p align="center">
-  Languages
-</p>
 <!-- Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-GitHub-brightgreen" alt="Platform: GitHub">
