@@ -4,7 +4,7 @@
 </p>
 
 <!-- Deskripsi -->
-<h1 align="center">Hallo, We Are UPG DEV 👋</h1>
+<h1 align="center">Hello, 👋 We Are UPG DEV</h1>
 <p align="center">
   Official Account Universitas Primagraha
 </p>
@@ -24,7 +24,7 @@
 </p>
 
 <!-- Statistik Github -->
-<h2 align="center">Statistik GitHub 📊</h2>
+<h2 align="center">Statistics GitHub 📊</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UPG-DEV-APPLICATION&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Statistik GitHub Anda">
   <br>
