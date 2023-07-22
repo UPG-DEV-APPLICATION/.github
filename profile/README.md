@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We Are UPG DEV</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UPG-DEV-APPLICATION&label=Profile%20views&color=129e00&style=plastic" alt="UPG" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=UPG-DEV-APPLICATION&label=Profile%20views&color=129e00&style=plastic" alt="UPG" /> </p>
 
 
 <h2 align="center">Welcome to Official Account Primagraha University</h2>
