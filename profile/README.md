@@ -28,5 +28,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ferlanferlani&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Statistik GitHub Anda">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UPG-DEV-APPLICATION&layout=compact&theme=radical" alt="Bahasa yang Sering Digunakan">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlanferlani&layout=compact&theme=radical" alt="Bahasa yang Sering Digunakan">
 </p>
