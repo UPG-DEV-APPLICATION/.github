@@ -31,6 +31,4 @@
 
 
 <!-- Footer -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=UPG-DEV-APPLICATION.UPG-DEV-APPLICATION" alt="Jumlah Pengunjung Profil">
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=UPG-DEV-APPLICATION&label=Profile%20views&color=129e00&style=plastic" alt="UPG" /> </p
